@@ -16,7 +16,8 @@ A versão original serviu como base, mas foi totalmente aprimorada com:
 - Pontuação **100/100 no Lighthouse**
 
 ##  Demonstração
-🔗 Link será adicionado após o deploy no GitHub Pages
+ [Clique aqui para acessar](https://gabri-elecorreaX.github.io/amigo-secreto/)
+
 
 ##  Tecnologias
 - HTML5  
