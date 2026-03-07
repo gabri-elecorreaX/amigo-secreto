@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/gabri-elecorreaX/amigo-secreto)
 ![GitHub last commit](https://img.shields.io/github/last-commit/gabri-elecorreaX/amigo-secreto)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-concluído-green)
 
 ##  Contexto
 Este projeto foi inicialmente desenvolvido como parte do programa **Oracle Next Education (ONE)**.  
@@ -28,3 +28,4 @@ A versão original serviu como base, mas foi totalmente aprimorada com:
 Clone o repositório:
 ```bash
 git clone https://github.com/gabri-elecorreaX/amigo-secreto.git
+
