@@ -5,7 +5,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-concluído-green)
 
-##  Contexto
+## Sobre
 Este projeto foi inicialmente desenvolvido como parte do programa **Oracle Next Education (ONE)**.  
 A versão original serviu como base, mas foi totalmente aprimorada com:
 
@@ -15,7 +15,7 @@ A versão original serviu como base, mas foi totalmente aprimorada com:
 - Microinterações e animações suaves  
 - Pontuação **100/100 no Lighthouse**
 
-##  Demonstração
+## Link de demonstração 
  [Clique aqui para acessar](https://gabri-elecorreaX.github.io/amigo-secreto/)
 
 
