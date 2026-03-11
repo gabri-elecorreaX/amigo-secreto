@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+<<<<<<< HEAD
   <meta charset="UTF-8">
   <title>Sistema de Cadastro/Login</title>
   <link rel="stylesheet" href="css/style.css">
@@ -18,3 +19,54 @@
   </main>
 </body>
 </html>
+=======
+  <meta name="description" content="Aplicação web para organizar e sortear nomes no Amigo Secreto. Adicione amigos, embaralhe a lista e descubra quem será o sorteado!">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Amigo Secreto</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="main-content">
+    <header class="header-banner">
+      <div class="banner-content">
+        <h1 class="main-title">Amigo Secreto</h1>
+        <img src="assets/amigo-secreto.png" alt="Banner Amigo Secreto" class="banner-img" />
+      </div>
+    </header>
+
+    <section class="input-section">
+      <h2 class="section-title">Hora de montar a lista do Amigo Secreto!</h2>
+
+      <div class="input-wrapper">
+        <input 
+          type="text" 
+          id="amigo" 
+          class="input-name" 
+          placeholder="Digite um nome" 
+          aria-label="Digite o nome do amigo" 
+        />
+        <button class="button-add" aria-label="Adicionar amigo">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <title>Adicionar</title>
+            <path d="M12 5v14m-7-7h14" stroke="white" stroke-width="2" fill="none" stroke-linecap="round"/>
+          </svg>
+          Adicionar
+        </button>
+      </div>
+
+      <div class="button-container">
+        <button class="button-draw" id="sortear" aria-label="Sortear amigo secreto">Sortear Amigo</button>
+        <button class="button-draw" id="resetar" aria-label="Resetar lista">Resetar Lista</button>
+        <button class="button-draw" id="embaralhar" aria-label="Embaralhar lista">Embaralhar Lista</button>
+      </div>
+
+      <ul id="listaAmigos" class="name-list"></ul>
+      <div id="resultado" class="result-list"></div>
+      <div id="mensagem" class="mensagem"></div>
+    </section>
+  </main>
+</body>
+<script src="app.js"></script>
+</html>
+>>>>>>> aff99cc4beea87738eb42bf52099c5cedbc415c4
